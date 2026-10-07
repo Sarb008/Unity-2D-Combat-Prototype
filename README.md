@@ -11,7 +11,7 @@ A small Unity 2D gameplay prototype focused on real-time combat and reusable gam
 ![Combat](Screenshots/combat.png)
 
 ### Game Over
-![Game Over](Screenshots/game-over.png)
+![Game Over](Screenshots/gameover.png)
 
 ## Features
 
